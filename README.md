@@ -1,0 +1,2 @@
+# Unhandled error in JavaScript function call
+This repository demonstrates a common JavaScript error where an error thrown in a called function is not caught by the calling function, leading to a program crash.  The `bug.js` file shows the problematic code, while `bugSolution.js` demonstrates the correct way to handle the error using a `try...catch` block.
